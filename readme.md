@@ -59,7 +59,7 @@ If the date format is correct, you need to check the validity of the month and d
 
 - 1-1-1 is a valid date;
 - -1-1-1 - correct date (year -1, month 1, day 1);
-- 1-1-1 - date in the correct format, but with an incorrect month -1;
+- 1--1-1 - date in the correct format, but with an incorrect month -1;
 - 1 --- 1-1 - date is not in the correct format: the month cannot start with two hyphens.
 - 1- + 1- + 1 is a valid date, since +1 is an integer
 
