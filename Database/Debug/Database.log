@@ -1,0 +1,4 @@
+﻿  Database.cpp
+C:\Users\Bydur\source\repos\Database\Database\Database.cpp(22,6): warning C4101: count: неиспользованная локальная переменная
+C:\Users\Bydur\source\repos\Database\Database\Database.cpp(100): warning C4715: check_date: значение возвращается не при всех путях выполнения
+  Database.vcxproj -> C:\Users\Bydur\source\repos\Database\Debug\Database.exe
